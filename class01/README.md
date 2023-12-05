@@ -36,41 +36,41 @@
 * HW#3 :
 * HW#4 :
 
-| 영문이름 (GitHub id)           | HW#1 | HW#2 | HW#3 | HW#4 | Reviewer |
-|------------------------|------|------|------|----------|----------|
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
-| KimYoungHee (abcde) | O | O | O | O | mokiya |
+| 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | Reviewer |
+|-------------------------------|---------|------|------|-------|-----|----------|
+| KimYoungHee (abcde) | x | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | x | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | x | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | x | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | x | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| KimYoungHee (abcde) | v | O | O | O | O | mokiya |
+| KimYoungHee (abcde) | v | O | O | O | O | mokiya |
+| KimYoungHee (abcde) | v | O | O | O | O | mokiya |
+| KimYoungHee (abcde) | v | O | O | O | O | mokiya |
+| KimYoungHee (abcde) | v | O | O | O | O | mokiya |
 
 ### Mini Projects
 
-* Team1:
-* Team2:
-* Team3:
-* Team4:
-* Team5:
-* Team6:
-* Team7:
+* Team x:
+* Team y:
+* Team z:
+* Team w:
+* Team v:
+* Team a:
+* Team b:
 
