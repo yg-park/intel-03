@@ -45,7 +45,7 @@
 | KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| WooChangMin (woochang0110) | z | O | O | O | O | max5982 |
 | KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |

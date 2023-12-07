@@ -50,7 +50,7 @@
 | KimYoungHee (abcde) | y | O | O | O | O | max5982 |
 | KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | KimYoungHee (abcde) | z | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| WooChangMin (woochang0110) | z | O | O | O | O | max5982 |
 | KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | KimYoungHee (abcde) | w | O | O | O | O | mokiya |
