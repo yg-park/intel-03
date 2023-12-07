@@ -33,28 +33,28 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
-| KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
-| KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
-| KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
-| KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
+| 01 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
+| 02 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
+| 03 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
+| 04 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
+| 05 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
+| 06 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 07 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 08 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 10 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 12 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 13 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 14 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 15 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 16 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 17 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 18 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 19 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 20 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 21 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
+| 22 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
+| 23 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
+| 24 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
+| 25 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
