@@ -39,7 +39,7 @@
 | 04 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
 | 06 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 07 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 07 jinwankim (JinwanK) | y | O | O | O | O | litcoder |
 | 08 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 10 KimYoungHee (abcde) | y | O | O | O | O | litcoder |

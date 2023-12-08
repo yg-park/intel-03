@@ -44,7 +44,7 @@
 | 04 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 06 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
-| 07 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| 07 JinwanKim (JinwanK) | y | O | O | O | O | max5982 |
 | 08 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
 | 09 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
 | 10 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
