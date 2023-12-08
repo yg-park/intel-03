@@ -44,7 +44,7 @@
 | 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 10 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| 12 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 12 Myungjun Kim (Yuriel849) | z | O | O | O | O | litcoder |
 | 13 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 14 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | litcoder |

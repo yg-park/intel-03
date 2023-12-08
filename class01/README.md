@@ -49,7 +49,7 @@
 | 09 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
 | 10 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
 | 11 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
-| 12 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| 12 Myungjun Kim (Yuriel849) | z | O | O | O | O | max5982 |
 | 13 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 14 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
