@@ -48,7 +48,7 @@
 | 13 WooChangMin (woochang0110) | z | O | O | O | O | litcoder |
 | 14 ParkYongGeun (yg-park) | z | O | O | O | O | litcoder |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| 16 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 16 KimGyuWon (exitdoor4) | w | O | O | O | O | mokiya |
 | 17 JungJuHwan (oz971124) | w | O | O | O | O | jerry-jaeseong-lee |
 | 18 WangJeongHyun (WangJeongHyun) | w | O | O | O | O | mokiya |
 | 19 KimJimin (jimeaning) | w | O | O | O | O | mokiya |
