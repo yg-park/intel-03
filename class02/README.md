@@ -50,7 +50,7 @@
 | 15 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 16 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
 | 17 JungJuHwan (oz971124) | w | O | O | O | O | jerry-jaeseong-lee |
-| 18 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 18 WangJeongHyun (WangJeongHyun) | w | O | O | O | O | mokiya |
 | 19 KimJimin (jimeaning) | w | O | O | O | O | mokiya |
 | 20 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
 | 21 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
