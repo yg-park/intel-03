@@ -41,7 +41,7 @@
 | 01 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 02 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 03 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
-| 04 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
+| 04 JeongJuHee (juhee67) | x | O | O | O | O | max5982 |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 06 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
 | 07 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
