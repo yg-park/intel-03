@@ -40,7 +40,7 @@
 |-------------------------------|---------|------|------|-------|-----|----------|
 | 01 ParkJinWuk (ParkJinwuk) | x | O | O | O | O | max5982 |
 | 02 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
-| 03 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
+| 03 KimHyuckKu (KimHyuckku) | 3 | O | O | O | O | mokiya |
 | 04 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 06 EumYeaJin (Amaziniverse) | y | O | O | O | O | max5982 |
