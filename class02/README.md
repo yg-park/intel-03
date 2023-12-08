@@ -41,16 +41,16 @@
 | 06 EumYeaJin (Amaziniverse) | y | O | O | O | O | litcoder |
 | 07 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 08 HongJongHyun (myreporthjh) | y | O | O | O | O | litcoder |
-| 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 09 KwonGangHyeon (kenGwon) | y | O | O | O | O | litcoder |
 | 10 ParkDohyeon (DohyeonP) | y | O | O | O | O | litcoder |
 | 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 12 Myungjun Kim (Yuriel849) | z | O | O | O | O | litcoder |
-| 13 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 13 WooChangMin (woochang0110) | z | O | O | O | O | litcoder |
 | 14 ParkYongGeun (yg-park) | z | O | O | O | O | litcoder |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| 16 KimGyuwon (exitdoor4) | w | O | O | O | O | mokiya |
+| 16 KimGyuWon (exitdoor4) | w | O | O | O | O | mokiya |
 | 17 JungJuHwan (oz971124) | w | O | O | O | O | jerry-jaeseong-lee |
-| 18 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 18 WangJeongHyun (WangJeongHyun) | w | O | O | O | O | mokiya |
 | 19 KimJimin (jimeaning) | w | O | O | O | O | mokiya |
 | 20 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
 | 21 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
