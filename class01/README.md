@@ -51,7 +51,7 @@
 | 11 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 12 Myungjun Kim (Yuriel849) | z | O | O | O | O | max5982 |
 | 13 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
-| 14 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| 14 ParkYongGeun (yg-park) | z | O | O | O | O | max5982 |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 16 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | 17 JungJuHwan (oz971124) | w | O | O | O | O | mokiya |
