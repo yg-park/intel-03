@@ -47,7 +47,7 @@
 | KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| LeeHyunWoo (hyun-woooo) | z | O | O | O | O | litcoder |
 | KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
 | KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
 | KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |

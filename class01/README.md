@@ -52,7 +52,7 @@
 | KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | KimYoungHee (abcde) | z | O | O | O | O | max5982 |
-| KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| LeeHyunWoo (hyun-woooo) | z | O | O | O | O | max5982 |
 | KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | KimYoungHee (abcde) | w | O | O | O | O | mokiya |
