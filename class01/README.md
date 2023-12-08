@@ -56,7 +56,7 @@
 | 16 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | 17 JungJuHwan (oz971124) | w | O | O | O | O | mokiya |
 | 18 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
-| 19 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| 19 KimJimin (jimeaning) | w | O | O | O | O | mokiya |
 | 20 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | 21 KimYoungHee (abcde) | v | O | O | O | O | mokiya |
 | 22 KimYoungHee (abcde) | v | O | O | O | O | mokiya |
