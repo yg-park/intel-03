@@ -40,7 +40,7 @@
 | 05 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
 | 06 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 07 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 08 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 08 HongJongHyun (myreporthjh) | y | O | O | O | O | litcoder |
 | 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 10 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
