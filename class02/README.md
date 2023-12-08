@@ -34,7 +34,7 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 ParkJinWuk (ParkJinwuk) | x | O | O | O | O | litcoder |
-| 02 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
+| 02 kangjaehwan (znsi) | x | O | O | O | O | litcoder |
 | 03 KimHyuckKu (KimHyuckku) | 3 | O | O | O | O | mokiya |
 | 04 JeongJuHee (juhee67) | x | O | O | O | O | litcoder |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
