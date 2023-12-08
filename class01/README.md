@@ -39,7 +39,7 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | Reviewer |
 |-------------------------------|---------|------|------|-------|-----|----------|
 | 01 ParkJinWuk (ParkJinwuk) | x | O | O | O | O | max5982 |
-| 02 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
+| 02 kangjaehwan (abcde) | x | O | O | O | O | max5982 |
 | 03 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 04 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
