@@ -43,7 +43,7 @@
 | 08 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 10 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 11 wooleejun (dndlwns) | z | O | O | O | O | litcoder |
 | 12 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 13 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 14 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
