@@ -35,7 +35,7 @@
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
 | 02 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| 03 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
+| 03 KimHyuckKu (KimHyuckku) | 3 | O | O | O | O | mokiya |
 | 04 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
 | 06 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
