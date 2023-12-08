@@ -41,7 +41,7 @@
 | 06 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 07 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 08 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 09 KwonGangHyeon (kenGwon) | y | O | O | O | O | litcoder |
 | 10 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 12 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
