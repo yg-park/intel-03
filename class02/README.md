@@ -38,7 +38,7 @@
 | 03 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
 | 04 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| 06 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 06 EumYeaJin (Amaziniverse) | y | O | O | O | O | litcoder |
 | 07 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 08 HongJongHyun (myreporthjh) | y | O | O | O | O | litcoder |
 | 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
