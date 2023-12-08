@@ -42,7 +42,7 @@
 | 07 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 08 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
 | 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 10 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 10 ParkDohyeon (DohyeonP) | y | O | O | O | O | litcoder |
 | 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 12 Myungjun Kim (Yuriel849) | z | O | O | O | O | litcoder |
 | 13 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
