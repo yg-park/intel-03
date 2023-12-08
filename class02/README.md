@@ -49,7 +49,7 @@
 | 14 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 16 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| 17 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 17 JungJuHwan (oz971124) | w | O | O | O | O | jerry-jaeseong-lee |
 | 18 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
 | 19 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
 | 20 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |

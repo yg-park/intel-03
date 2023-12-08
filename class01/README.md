@@ -54,7 +54,7 @@
 | 14 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 16 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
-| 17 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| 17 JungJuHwan (oz971124) | w | O | O | O | O | mokiya |
 | 18 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | 19 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | 20 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
