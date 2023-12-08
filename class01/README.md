@@ -12,7 +12,7 @@
 
 3. `class01/homework`내 본인 `영문이름`으로 되어 있는 디렉토리내에 `hw1`, `hw2`, `hw3`, `hw4` 중 하나의 디렉토리 생성
 
-    Example)
+    Example
     ```
     ./class01
     └── homework
@@ -53,7 +53,7 @@
 | 13 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 14 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
-| 16 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| 16 KimGYUWON   (exitdoor4) | w | O | O | O | O | mokiya |
 | 17 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | 18 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | 19 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
