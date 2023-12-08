@@ -38,22 +38,22 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | Reviewer |
 |-------------------------------|---------|------|------|-------|-----|----------|
-| 01 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
+| 01 ParkJinWuk (ParkJinwuk) | x | O | O | O | O | max5982 |
 | 02 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 03 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 04 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | max5982 |
-| 06 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| 06 EumYeaJin (Amaziniverse) | y | O | O | O | O | max5982 |
 | 07 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
-| 08 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| 08 HongJongHyun (myreporthjh) | y | O | O | O | O | max5982 |
 | 09 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
-| 10 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| 10 ParkDohyeon (DohyeonP) | y | O | O | O | O | max5982 |
 | 11 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 12 Myungjun Kim (Yuriel849) | z | O | O | O | O | max5982 |
 | 13 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
-| 14 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| 14 ParkYongGeun (yg-park) | z | O | O | O | O | max5982 |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
-| 16 KimGyuwon (exitdoor4) | w | O | O | O | O | mokiya |
+| 16 KimGyuWon (exitdoor4) | w | O | O | O | O | mokiya |
 | 17 JungJuHwan (oz971124) | w | O | O | O | O | mokiya |
 | 18 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | 19 KimJimin (jimeaning) | w | O | O | O | O | mokiya |
