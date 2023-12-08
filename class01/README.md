@@ -47,16 +47,16 @@
 | 07 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
 | 08 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
 | 09 KwonGangHyeon (kenGwon) | y | O | O | O | O | max5982 |
-| 10 KimYoungHee (abcde) | y | O | O | O | O | max5982 |
+| 10 ParkDohyeon (DohyeonP) | y | O | O | O | O | max5982 |
 | 11 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
-| 12 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
+| 12 Myungjun Kim (Yuriel849) | z | O | O | O | O | max5982 |
 | 13 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 14 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | max5982 |
 | 16 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
-| 17 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| 17 JungJuHwan (oz971124) | w | O | O | O | O | mokiya |
 | 18 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
-| 19 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
+| 19 KimJimin (jimeaning) | w | O | O | O | O | mokiya |
 | 20 KimYoungHee (abcde) | w | O | O | O | O | mokiya |
 | 21 KimYoungHee (abcde) | v | O | O | O | O | mokiya |
 | 22 KimYoungHee (abcde) | v | O | O | O | O | mokiya |
