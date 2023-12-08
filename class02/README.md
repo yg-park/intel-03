@@ -45,7 +45,7 @@
 | 10 ParkDohyeon (DohyeonP) | y | O | O | O | O | litcoder |
 | 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 12 Myungjun Kim (Yuriel849) | z | O | O | O | O | litcoder |
-| 13 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 13 WooChangMin (woochang0110) | z | O | O | O | O | litcoder |
 | 14 ParkYongGeun (yg-park) | z | O | O | O | O | litcoder |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
 | 16 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
