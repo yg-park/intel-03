@@ -34,12 +34,12 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 ParkJinWuk (ParkJinwuk) | x | O | O | O | O | litcoder |
-| 02 kangjaehwan (abcde) | x | O | O | O | O | litcoder |
-| 03 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| 04 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
+| 02 kangjaehwan (znsi) | x | O | O | O | O | litcoder |
+| 03 KimHyuckKu (KimHyuckku) | 3 | O | O | O | O | mokiya |
+| 04 JeongJuHee (juhee67) | x | O | O | O | O | litcoder |
 | 05 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
 | 06 EumYeaJin (Amaziniverse) | y | O | O | O | O | litcoder |
-| 07 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
+| 07 jinwankim (JinwanK) | y | O | O | O | O | litcoder |
 | 08 HongJongHyun (myreporthjh) | y | O | O | O | O | litcoder |
 | 09 KwonGangHyeon (kenGwon) | y | O | O | O | O | litcoder |
 | 10 ParkDohyeon (DohyeonP) | y | O | O | O | O | litcoder |
@@ -48,7 +48,7 @@
 | 13 WooChangMin (woochang0110) | z | O | O | O | O | litcoder |
 | 14 ParkYongGeun (yg-park) | z | O | O | O | O | litcoder |
 | 15 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| 16 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
+| 16 KimGyuWon (exitdoor4) | w | O | O | O | O | mokiya |
 | 17 JungJuHwan (oz971124) | w | O | O | O | O | jerry-jaeseong-lee |
 | 18 WangJeongHyun (WangJeongHyun) | w | O | O | O | O | mokiya |
 | 19 KimJimin (jimeaning) | w | O | O | O | O | mokiya |
