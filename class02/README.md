@@ -43,7 +43,7 @@
 | 08 HongJongHyun (myreporthjh) | y | O | O | O | O | litcoder |
 | 09 KwonGangHyeon (kenGwon) | y | O | O | O | O | litcoder |
 | 10 ParkDohyeon (DohyeonP) | y | O | O | O | O | litcoder |
-| 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
+| 11 wooleejun (dndlwns) | z | O | O | O | O | litcoder |
 | 12 Myungjun Kim (Yuriel849) | z | O | O | O | O | litcoder |
 | 13 WooChangMin (woochang0110) | z | O | O | O | O | litcoder |
 | 14 ParkYongGeun (yg-park) | z | O | O | O | O | litcoder |
