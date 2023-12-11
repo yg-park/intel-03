@@ -33,28 +33,22 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| 01 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| 02 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| 03 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| 04 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| 05 KimYoungHee (abcde) | x | O | O | O | O | litcoder |
-| 06 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 07 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 08 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 09 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 10 KimYoungHee (abcde) | y | O | O | O | O | litcoder |
-| 11 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| 12 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| 13 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| 14 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| 15 KimYoungHee (abcde) | z | O | O | O | O | litcoder |
-| 16 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| 17 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| 18 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| 19 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| 20 KimYoungHee (abcde) | w | O | O | O | O | jerry-jaeseong-lee |
-| 21 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
-| 22 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
-| 23 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
-| 24 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
-| 25 KimYoungHee (abcde) | v | O | O | O | O | jerry-jaeseong-lee |
+| ParkJinWuk (ParkJinwuk) | n/a | - | - | - | - | litcoder |
+| kangjaehwan (znsi) | n/a | - | - | - | - | litcoder |
+| KimHyuckKu (KimHyuckku) | n/a | - | - | - | - | mokiya |
+| JeongJuHee (juhee67) | n/a | - | - | - | - | litcoder |
+| 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| EumYeaJin (Amaziniverse) | n/a | - | - | - | - | litcoder |
+| jinwankim (JinwanK) | n/a | - | - | - | - | litcoder |
+| HongJongHyun (myreporthjh) | n/a | - | - | - | - | litcoder |
+| KwonGangHyeon (kenGwon) | n/a | - | - | - | - | litcoder |
+| ParkDohyeon (DohyeonP) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| wooleejun (dndlwns) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| Myungjun Kim (Yuriel849) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| WooChangMin (woochang0110) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| ParkYongGeun (yg-park) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| LeeHyunWoo (hyun-woooo) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| KimGyuWon (exitdoor4) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| JungJuHwan (oz971124) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| WangJeongHyun (WangJeongHyun) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| KimJimin (jimeaning) | n/a | - | - | - | - | jerry-jaeseong-lee |
