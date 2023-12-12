@@ -43,7 +43,7 @@
 | kangjaehwan (znsi) | n/a | O | O | O | - | - | max5982 |
 | KimHyuckKu (KimHyuckku) | n/a | O | O | O | - | - | max5982 |
 | JeongJuHee (juhee67) | n/a | O | O | O | - | - | max5982 |
-| JinWoosun (abbblin) | n/a | O | O | X | - | - | max5982 |
+| JinWoosun (abbblin) | n/a | O | O | O | - | - | max5982 |
 | EumYeaJin (Amaziniverse) | n/a | O | O | O | - | - | max5982 |
 | JinwanKim (JinwanK) | n/a | O | O | O | - | - | max5982 |
 | HongJongHyun (myreporthjh) | n/a | O | O | O | - | - | max5982 |
