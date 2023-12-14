@@ -1,0 +1,13 @@
+"""
+Quiz
+
+1. Track bar를 컨트롤해서 Text의 굵기가 변하는 것을 확인해보자.
+   -> 확인 완료.
+
+2. Track bar를 추가해서 font size를 변경/적용 해보자.
+   -> basic_operation7.py 코드 추가 완료
+
+3. R/G/B Track bar를 각각 추가해서 글자의 font color를 변경해보자.
+   -> basic_operation7.py 코드 추가 완료
+
+"""
