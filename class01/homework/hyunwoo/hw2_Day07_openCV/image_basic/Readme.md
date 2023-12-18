@@ -7,7 +7,7 @@
  * 이미지 : Read / Write / Display / RGBHSV Color Space/ Crp / Resize
  * 동영상 : 파일 읽고 보여주기
  * 카메라 : 카메라로부터 input을 받아 보여주고 동영상 파일로 저장
- * OpenCV : GUI Input 활용(Text / line / Rectangle / Circle / Trackbar
+ * OpenCV : GUI Input 활용(Text / line / Rectangle / Circle / Trackbar)
 
 ## Prerequite
 
