@@ -1,0 +1,13 @@
+"""
+Quiz
+
+1. Text문구 / Font / 색상 / 크기 / 굵기 / 출력위치 등 모든 값을 변경해보자.
+   -> basic_operation6.py 코드 적용 완료
+
+2. 동그라미 그리는 함수를 찾아서 적용해보자.
+   -> basic_operation6.py 코드 적용 완료
+
+3. 마우스 왼쪽 버튼을 클릭하면 해당 위치에 동그라미가 그려지도록 코드를 추가해보자.
+   (Reference : cv2.EVENT_LBUTTONDOWN)
+
+"""

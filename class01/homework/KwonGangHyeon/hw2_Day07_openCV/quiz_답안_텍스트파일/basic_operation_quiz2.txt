@@ -1,0 +1,10 @@
+"""
+Quiz
+
+1. 색공간의 표현방법을 이해해보자.
+2. HSV color space가 어떤 경우게 효과적으로 사용될까
+   -> 색깔을 단 하나의 변수값으로 구분하고 싶을 때(?)
+3. basic_operation2.py 코드 적용 완료
+4. basic_operation2.py 코드 적용 완료
+
+"""
