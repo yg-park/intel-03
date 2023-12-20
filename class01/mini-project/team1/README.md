@@ -10,6 +10,10 @@ During real-time video recording, there is a frequent occurrence of privacy inva
 ##### Woosun Jin @abbblin 
 
 ---
+## Team Up
+<https://www.notion.so/Team-1-MiniProject-f4b3a9ff5d1f49599199adbfebe0cd01>
+
+---
 ## Diagram
 <img src="https://github.com/kccistc/intel-03/blob/MiniPrj-team1/class01/mini-project/team1/diagram.png" width=500 height=600/>
 
