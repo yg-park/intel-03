@@ -1,0 +1,5 @@
+# 다운 가능한 모델 리스트를 텍스트 파일로 저장
+omz_downloader --print_all > omz_downloader_model_list.txt
+
+# 원하는 모델을 선택하여 다운로드
+omz_downloader --name mobilenet-v3-small-1.0-224-tf -o mobilenet_model

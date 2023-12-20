@@ -5,8 +5,8 @@ import sys
 # cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 cap = cv2.VideoCapture(0)
 
-w = 320#640#1280#1920
-h = 240#480#720#1080
+w = 176#640#352#320#176#160
+h = 144#480#288#240#144#120
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, w)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, h)
 
