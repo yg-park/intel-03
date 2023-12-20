@@ -61,10 +61,10 @@
 
 ### Mini Projects
 
-* Team x:
-* Team y:
-* Team z:
-* Team w:
-* Team v:
-* Team a:
-* Team b:
+* Team 1: [Face Blur System for Privacy Protection](./class01/mini-project/team1)
+* Team 2: [책 읽어주는 아이(AI)](./class01/mini-project/team2)
+* Team 3: [DYNAMIC DIARY mini-project](./class01/mini-project/team3)
+* Team 4: [펜팔 문법 오류 검출](./class01/mini-project/team4)
+* Team 5: [FINDOG](./class01/mini-project/team5)
+* Team 6: [OV 수첩](./class01/mini-project/team6)
+
