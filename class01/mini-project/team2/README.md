@@ -1,21 +1,31 @@
-책 읽어주는 아이(AI)
-김혁구 - Jupyter lab Notebook OCR코드 python으로 변환, OCR과 Text-to-speech 연동,  git 추가
-강재환 - OCR 코드 Web Cam으로 변환
-박진욱 - Text-to-speech Python code Demo
-Purpose - 글자를 못 읽는 아이들을 위해 
-Diagram -
+# 책 읽어주는 아이(AI)
+
+* Teammates
+  김혁구 - Jupyter lab Notebook OCR코드 python으로 변환, OCR과 Text-to-speech 연동,  git 추가
+  강재환 - OCR 코드 Web Cam으로 변환
+  박진욱 - Text-to-speech Python code Demo
+
+* Purpose - 시각 장애인이나 아이들, 글을 읽을 시간이 없는 사람들을 위해 사진을 통해 책을 읽어주기 위한 프로그램입니다.
+
+* Diagram -
+  
 ![./flow_chart.png](./flow_chart.png)
-How to run - 프로그램을 동작시키면 캠이 활성화된다. 캠으로 읽고싶은 글자를 비춘 뒤 q를 누르면 캠이 비추고 있는 글자를 인식하고 텍스트 파일에 저장한다
+* How to run - 프로그램을 동작시키면 캠이 활성화된다. 캠으로 읽고싶은 글자를 비춘 뒤 q를 누르면 캠이 비추고 있는 글자를 인식하고 텍스트 파일에 저장한다
 	         저장한 텍스트 파일을 통해 Text-to-speech로 읽는다.
 	         학습 모델이 OCR과 Text-to-speech 2개이므로 run.sh로 실행하여 두 파일을 같이 읽는다.
-Result - OCR모델이 글자를 읽어내는 것은 잘 완성되었으나, 글자가 출력되는 순서가 무작위에 가깝게 출력되었다.
+* Result - OCR모델이 글자를 읽어내는 것은 잘 완성되었으나, 글자가 출력되는 순서가 무작위에 가깝게 출력되었다.
 	그래서 소리까지 출력은 잘 작동하나, 순서가 이상하기 때문에 제대로 된 글자가 나오지 못했다.
 
-학습 모델들
-OCR => jupyter lab 208-optical-character-recognition
-Text-to-speech => https://docs.openvino.ai/2023.2/omz_models_model_text_to_speech_en_0001.html
-model, __pycache__ = from jupyter lab 208-optical-character-recognition
-intel, models, public, utils = from https://docs.openvino.ai/2023.2/omz_models_model_text_to_speech_en_0001.html
+![(https://lh7-us.googleusercontent.com/f7BAqyAFtG-coVh1NnFYdRdh6fHUrJusSf2N-IJPortvQwjwD0r9uewFI9Pd-vrH-hi_RMmvfqtE59n_WswIPpofAuloV9HKIq4T6FQQfW85pxGm64mbRaALhSofa_dZYkV4DuwVcoftXK5xPfFN55IrxQ=s2048)](https://lh7-us.googleusercontent.com/f7BAqyAFtG-coVh1NnFYdRdh6fHUrJusSf2N-IJPortvQwjwD0r9uewFI9Pd-vrH-hi_RMmvfqtE59n_WswIPpofAuloV9HKIq4T6FQQfW85pxGm64mbRaALhSofa_dZYkV4DuwVcoftXK5xPfFN55IrxQ=s2048)
+
+![(https://lh7-us.googleusercontent.com/ry4cQK_RDj9x_bFLk8EpqxtFjEc1ZvFo-nQ8NTJonW02lDX2vpGc2JCof7cOLYsPzQfyx6FMGP7rWIavcA8zXTB2fxBXI-tFGfZnoqdEbhourhYYQd4Q6px7nyWCxB5_3UImNsrdFZdG1QTtNuRfJg9IKw=s2048)](https://lh7-us.googleusercontent.com/ry4cQK_RDj9x_bFLk8EpqxtFjEc1ZvFo-nQ8NTJonW02lDX2vpGc2JCof7cOLYsPzQfyx6FMGP7rWIavcA8zXTB2fxBXI-tFGfZnoqdEbhourhYYQd4Q6px7nyWCxB5_3UImNsrdFZdG1QTtNuRfJg9IKw=s2048)
+> 중간 텍스트 출력 결과
+
+* 학습 모델들
+  OCR => jupyter lab 208-optical-character-recognition
+  Text-to-speech => https://docs.openvino.ai/2023.2/omz_models_model_text_to_speech_en_0001.html
+  model, __pycache__ = from jupyter lab 208-optical-character-recognition
+  intel, models, public, utils = from https://docs.openvino.ai/2023.2/omz_models_model_text_to_speech_en_0001.html
 
 
 # Optical Character Recognition (OCR) with OpenVINO™
@@ -28,15 +38,13 @@ intel, models, public, utils = from https://docs.openvino.ai/2023.2/omz_models_m
 
 In this tutorial optical character recognition is presented. This notebook is a continuation of [004-hello-detection](../004-hello-detection) notebook.
 
-## Notebook Contents
+### Notebook Contents
 
 In addition to previously used [horizontal-text-detection-0001](https://docs.openvino.ai/2023.0/omz_models_model_horizontal_text_detection_0001.html) model, a[text-recognition-resnet](https://docs.openvino.ai/2023.0/omz_models_model_text_recognition_resnet_fc.html) model is used. This model reads tight aligned crop with detected text converted to a grayscale image and returns tensor that is easily decoded to predicted text. Both models are from [Open Model Zoo](https://github.com/openvinotoolkit/open_model_zoo/).
 
-## Installation Instructions
+### Installation Instructions
 
 If you have not installed all required dependencies, follow the [Installation Guide](../../README.md).
-
-
 
 
 
@@ -45,13 +53,13 @@ If you have not installed all required dependencies, follow the [Installation Gu
 The text to speech demo shows how to run the ForwardTacotron and WaveRNN models or modified ForwardTacotron and MelGAN models to produce an audio file for a given input text file.
 The demo is based on https://github.com/seungwonpark/melgan, https://github.com/as-ideas/ForwardTacotron and https://github.com/fatchord/WaveRNN repositories.
 
-## How It Works
+### How It Works
 
 On startup, the demo application reads command-line parameters and loads four or three models to OpenVINO™ Runtime plugin. The demo pipeline reads text file by lines and divides every line to parts by punctuation marks.
 The heuristic algorithm chooses punctuation near to the some threshold by sentence length.
 When inference is done, the application outputs the audio to the WAV file with 22050 Hz sample rate.
 
-## Preparing to Run
+### Preparing to Run
 
 The list of models supported by the demo is in `<omz_dir>/demos/text_to_speech_demo/python/models.lst` file.
 This file can be used as a parameter for [Model Downloader](../../../tools/model_tools/README.md) and Converter to download and, if necessary, convert models to OpenVINO IR format (\*.xml + \*.bin).
@@ -83,7 +91,7 @@ omz_converter --list models.lst
 
 > **NOTE**: Refer to the tables [Intel's Pre-Trained Models Device Support](../../../models/intel/device_support.md) and [Public Pre-Trained Models Device Support](../../../models/public/device_support.md) for the details on models inference support at different devices.
 
-## Running
+### Running
 
 Running the application with the `-h` option yields the following usage message:
 
@@ -134,7 +142,7 @@ Options:
 
 Running the application with the empty list of options yields the usage message and an error message.
 
-## Example for Running with Arguments
+### Example for Running with Arguments
 
 ### Speech synthesis with ForwardTacotron and WaveRNN models
 
@@ -181,14 +189,14 @@ python3 text_to_speech_demo.py \
 > `text-to-speech-en-multi-0001` models.
 
 
-## Demo Output
+### Demo Output
 
 The application outputs WAV file with generated audio.
 The demo reports
 
 * **Latency**: total processing time required to process input data (from reading the data to displaying the results).
 
-## See Also
+### See Also
 
 * [Open Model Zoo Demos](../../README.md)
 * [Model Optimizer](https://docs.openvino.ai/2023.0/openvino_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide.html)
