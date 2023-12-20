@@ -3,7 +3,8 @@
 강재환 - OCR 코드 Web Cam으로 변환
 박진욱 - Text-to-speech Python code Demo
 Purpose - 글자를 못 읽는 아이들을 위해 
-Diagram - 
+Diagram -
+![./flow_chart.png](./flow_chart.png)
 How to run - 프로그램을 동작시키면 캠이 활성화된다. 캠으로 읽고싶은 글자를 비춘 뒤 q를 누르면 캠이 비추고 있는 글자를 인식하고 텍스트 파일에 저장한다
 	         저장한 텍스트 파일을 통해 Text-to-speech로 읽는다.
 	         학습 모델이 OCR과 Text-to-speech 2개이므로 run.sh로 실행하여 두 파일을 같이 읽는다.
