@@ -4,3 +4,6 @@
 [submodule "class02/smart-factory"]
 	path = class02/smart-factory
 	url = https://github.com/kccistc/smart-factory.git
+[submodule "class01/mini-project/team5/OpenVINO_AI"]
+	path = class01/mini-project/team5/OpenVINO_AI
+	url = https://github.com/woochang0110/OpenVINO_AI.git
