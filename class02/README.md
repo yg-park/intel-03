@@ -33,15 +33,15 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| ParkJinWuk (ParkJinwuk) | n/a | - | - | - | - | litcoder |
+| ParkJinWuk (ParkJinwuk) | n/a | O | - | - | - | litcoder |
 | kangjaehwan (znsi) | n/a | - | - | - | - | litcoder |
-| KimHyuckKu (KimHyuckku) | n/a | - | - | - | - | litcoder |
-| JeongJuHee (juhee67) | n/a | - | - | - | - | litcoder |
-| JinWoosun (abbblin) | n/a | - | - | - | - | litcoder |
-| EumYeaJin (Amaziniverse) | n/a | - | - | - | - | litcoder |
+| KimHyuckKu (KimHyuckku) | n/a | O | - | - | - | litcoder |
+| JeongJuHee (juhee67) | n/a | O | - | - | - | litcoder |
+| JinWoosun (abbblin) | n/a | O | - | - | - | litcoder |
+| EumYeaJin (Amaziniverse) | n/a | O | - | - | - | litcoder |
 | jinwankim (JinwanK) | n/a | - | - | - | - | litcoder |
-| HongJongHyun (myreporthjh) | n/a | - | - | - | - | litcoder |
-| KwonGangHyeon (kenGwon) | n/a | - | - | - | - | litcoder |
+| HongJongHyun (myreporthjh) | n/a | O | - | - | - | litcoder |
+| KwonGangHyeon (kenGwon) | n/a | O | - | - | - | litcoder |
 | ParkDohyeon (DohyeonP) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | wooleejun (dndlwns) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | Myungjun Kim (Yuriel849) | n/a | - | - | - | - | jerry-jaeseong-lee |
