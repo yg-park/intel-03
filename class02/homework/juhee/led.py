@@ -42,6 +42,6 @@ while True:
 
     elif input_num.lower() in ('q'):
     	print("> exit")
-        break  
+    break
 
 ctrl.close()
