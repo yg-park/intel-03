@@ -31,24 +31,24 @@
 
 ### 제출현황
 
-| 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
-|-------------------------------|---------|------|------|------|-------|----------|
-| ParkJinWuk (ParkJinwuk) | n/a | O | - | - | - | litcoder |
-| kangjaehwan (znsi) | n/a | - | - | - | - | litcoder |
-| KimHyuckKu (KimHyuckku) | n/a | O | - | - | - | litcoder |
-| JeongJuHee (juhee67) | n/a | O | - | - | - | litcoder |
-| JinWoosun (abbblin) | n/a | O | - | - | - | litcoder |
-| EumYeaJin (Amaziniverse) | n/a | O | - | - | - | litcoder |
-| jinwankim (JinwanK) | n/a | - | - | - | - | litcoder |
-| HongJongHyun (myreporthjh) | n/a | O | - | - | - | litcoder |
-| KwonGangHyeon (kenGwon) | n/a | O | - | - | - | litcoder |
-| ParkDohyeon (DohyeonP) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| wooleejun (dndlwns) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| Myungjun Kim (Yuriel849) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| WooChangMin (woochang0110) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| ParkYongGeun (yg-park) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| LeeHyunWoo (hyun-woooo) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| KimGyuWon (exitdoor4) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| JungJuHwan (oz971124) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| WangJeongHyun (WangJeongHyun) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| KimJimin (jimeaning) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 영문이름 (GitHub id)            | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer           |
+|-------------------------------|---------|------|------|------|-------|--------------------|
+| ParkJinWuk (ParkJinwuk)       | n/a     | O    | -    | -    | -     | litcoder           |
+| kangjaehwan (znsi)            | n/a     | -    | -    | -    | -     | litcoder           |
+| KimHyuckKu (KimHyuckku)       | n/a     | O    | -    | -    | -     | litcoder           |
+| JeongJuHee (juhee67)          | n/a     | O    | -    | -    | -     | litcoder           |
+| JinWoosun (abbblin)           | n/a     | O    | -    | -    | -     | litcoder           |
+| EumYeaJin (Amaziniverse)      | n/a     | O    | -    | -    | -     | litcoder           |
+| jinwankim (JinwanK)           | n/a     | -    | -    | -    | -     | litcoder           |
+| HongJongHyun (myreporthjh)    | n/a     | O    | -    | -    | -     | litcoder           |
+| KwonGangHyeon (kenGwon)       | n/a     | O    | -    | -    | -     | litcoder           |
+| ParkDohyeon (DohyeonP)        | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| wooleejun (dndlwns)           | n/a     | *    | -    | -    | -     | jerry-jaeseong-lee |
+| Myungjun Kim (Yuriel849)      | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| WooChangMin (woochang0110)    | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| ParkYongGeun (yg-park)        | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| LeeHyunWoo (hyun-woooo)       | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| KimGyuWon (exitdoor4)         | n/a     | *    | -    | -    | -     | jerry-jaeseong-lee |
+| JungJuHwan (oz971124)         | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| WangJeongHyun (WangJeongHyun) | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| KimJimin (jimeaning)          | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
