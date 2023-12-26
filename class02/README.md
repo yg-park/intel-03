@@ -39,7 +39,7 @@
 | JinWoosun (abbblin)           | n/a     | O    | -    | -    | -     | litcoder           |
 | EumYeaJin (Amaziniverse)      | n/a     | O    | -    | -    | -     | litcoder           |
 | jinwankim (JinwanK)           | n/a     | -    | -    | -    | -     | litcoder           |
-| HongJongHyun (myreporthjh)    | n/a     | O    | ?    | ?    | -     | litcoder           |
+| HongJongHyun (myreporthjh)    | n/a     | O    | O    | ?    | -     | litcoder           |
 | KwonGangHyeon (kenGwon)       | n/a     | O    | O    | O    | -     | litcoder           |
 | ParkDohyeon (DohyeonP)        | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
 | wooleejun (dndlwns)           | n/a     | *    | -    | -    | -     | jerry-jaeseong-lee |
