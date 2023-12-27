@@ -34,13 +34,13 @@
 |-------------------------------|---------|------|------|------|-------|--------------------|
 | ParkJinWuk (ParkJinwuk)       | n/a     | O    | O    | -    | -     | litcoder           |
 | kangjaehwan (znsi)            | n/a     | -    | -    | -    | -     | litcoder           |
-| KimHyuckKu (KimHyuckku)       | n/a     | O    | -    | -    | -     | litcoder           |
+| KimHyuckKu (KimHyuckku)       | n/a     | O    | -    | -    | O     | litcoder           |
 | JeongJuHee (juhee67)          | n/a     | O    | -    | -    | -     | litcoder           |
 | JinWoosun (abbblin)           | n/a     | O    | -    | -    | -     | litcoder           |
-| EumYeaJin (Amaziniverse)      | n/a     | O    | -    | -    | -     | litcoder           |
-| jinwankim (JinwanK)           | n/a     | -    | -    | -    | -     | litcoder           |
-| HongJongHyun (myreporthjh)    | n/a     | O    | O    | ?    | -     | litcoder           |
-| KwonGangHyeon (kenGwon)       | n/a     | O    | O    | O    | -     | litcoder           |
+| EumYeaJin (Amaziniverse)      | n/a     | O    | -    | -    | O     | litcoder           |
+| jinwankim (JinwanK)           | n/a     | -    | -    | -    | O     | litcoder           |
+| HongJongHyun (myreporthjh)    | n/a     | O    | O    | O    | -     | litcoder           |
+| KwonGangHyeon (kenGwon)       | n/a     | O    | O    | O    | O     | litcoder           |
 | ParkDohyeon (DohyeonP)        | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
 | wooleejun (dndlwns)           | n/a     | *    | -    | -    | -     | jerry-jaeseong-lee |
 | Myungjun Kim (Yuriel849)      | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
