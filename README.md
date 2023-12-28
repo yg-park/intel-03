@@ -63,3 +63,16 @@ $ find ./ -iname *.bin|xargs ls -l
   | 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
 * Project Github : https://github.com/goodsense/project_awesome.git
 * 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+
+### Team: BTS(Balsa Tracking System)
+표적에 따른 격추 자동화 시스템
+* Members
+  | Name | Role |
+  |----|----|
+  | 김규원 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
+  | 김지민 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | 왕정현 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+  | 이현우 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
+  | 정주환 | HW manager , 전반적인 하드웨어 구성과 제작을 총괄한다.|
+* Project Github : https://github.com/oz971124/BTS.git 
+* 발표자료 : https://github.com/oz971124/BTS/blob/main/presentation.pptx
