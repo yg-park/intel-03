@@ -32,7 +32,7 @@
 ### 제출현황
 | 영문이름 (GitHub id)            | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer           |
 |-------------------------------|---------|------|------|------|-------|--------------------|
-| ParkJinWuk (ParkJinwuk)       | n/a     | O    | O    | -    | -     | litcoder           |
+| ParkJinWuk (ParkJinwuk)       | n/a     | O    | O    | -    | *     | litcoder           |
 | kangjaehwan (znsi)            | n/a     | -    | -    | -    | -     | litcoder           |
 | KimHyuckKu (KimHyuckku)       | n/a     | O    | -    | -    | O     | litcoder           |
 | JeongJuHee (juhee67)          | n/a     | O    | -    | -    | -     | litcoder           |
