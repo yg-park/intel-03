@@ -40,16 +40,16 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviewer | HW#4 | HW#5 | HW#6 | Reviewer |
 |-------------------------------|---------|------|------|-------|----------|------|------|-------|----------|
-| ParkJinWuk (ParkJinwuk) | 2 | O | O | O | max5982 | O | O | O | J-WBaek |
-| kangjaehwan (znsi) | 2 | O | O | O | max5982 | O | O | - | J-WBaek |
-| KimHyuckKu (KimHyuckku) | 2 | O | O | O | max5982 | O | O | O | J-WBaek |
-| JeongJuHee (juhee67) | 1 | O | O | O | max5982 | O | O | - | J-WBaek |
-| JinWoosun (abbblin) | 1 | O | O | O | max5982 | O | - | - | J-WBaek |
-| EumYeaJin (Amaziniverse) | 1 | O | O | O | max5982 | O | - | - | J-WBaek |
-| JinwanKim (JinwanK) | 4 | O | O | O | max5982 | O | O | O | J-WBaek |
-| HongJongHyun (myreporthjh) | 4 | O | O | O | max5982 | O | O | - | J-WBaek |
-| KwonGangHyeon (kenGwon) | 4 | O | O | O | max5982 | O | O | - | J-WBaek |
-| ParkDohyeon (DohyeonP) | 3 | O | O | O | max5982 | O | O | - | J-WBaek |
+| ParkJinWuk (ParkJinwuk) | 2 | O | O | O | mokiya | O | O | O | J-WBaek |
+| kangjaehwan (znsi) | 2 | O | O | O | mokiya | O | O | - | J-WBaek |
+| KimHyuckKu (KimHyuckku) | 2 | O | O | O | mokiya | O | O | O | J-WBaek |
+| JeongJuHee (juhee67) | 1 | O | O | O | mokiya | O | O | - | J-WBaek |
+| JinWoosun (abbblin) | 1 | O | O | O | mokiya | O | - | - | J-WBaek |
+| EumYeaJin (Amaziniverse) | 1 | O | O | O | mokiya | O | - | - | J-WBaek |
+| JinwanKim (JinwanK) | 4 | O | O | O | mokiya | O | O | O | J-WBaek |
+| HongJongHyun (myreporthjh) | 4 | O | O | O | mokiya | O | O | - | J-WBaek |
+| KwonGangHyeon (kenGwon) | 4 | O | O | O | mokiya | O | O | - | J-WBaek |
+| ParkDohyeon (DohyeonP) | 3 | O | O | O | mokiya | O | O | - | J-WBaek |
 | wooleejun (dndlwns) | 3 | O | O | O | mokiya | O | - | - | J-WBaek |
 | Myungjun Kim (Yuriel849) | 3 | O | O | O | mokiya | O | O | O | J-WBaek |
 | WooChangMin (woochang0110) | 5 | O | O | O | mokiya | O | O | - | J-WBaek |
