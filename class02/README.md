@@ -41,13 +41,13 @@
 | jinwankim (JinwanK)           | n/a     | -    | -    | -    | O     | litcoder           |
 | HongJongHyun (myreporthjh)    | n/a     | O    | O    | O    | -     | litcoder           |
 | KwonGangHyeon (kenGwon)       | n/a     | O    | O    | O    | O     | litcoder           |
-| ParkDohyeon (DohyeonP)        | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| ParkDohyeon (DohyeonP)        | n/a     | O    | O    | O    | *     | jerry-jaeseong-lee |
 | wooleejun (dndlwns)           | n/a     | *    | -    | -    | -     | jerry-jaeseong-lee |
 | Myungjun Kim (Yuriel849)      | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
-| WooChangMin (woochang0110)    | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
-| ParkYongGeun (yg-park)        | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| WooChangMin (woochang0110)    | n/a     | O    | -    | -    | O     | jerry-jaeseong-lee |
+| ParkYongGeun (yg-park)        | n/a     | O    | O    | O    | *     | jerry-jaeseong-lee |
 | LeeHyunWoo (hyun-woooo)       | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
-| KimGyuWon (exitdoor4)         | n/a     | *    | O    | -    | -     | jerry-jaeseong-lee |
-| JungJuHwan (oz971124)         | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| KimGyuWon (exitdoor4)         | n/a     | O    | O    | O    | O     | jerry-jaeseong-lee |
+| JungJuHwan (oz971124)         | n/a     | O    | *    | -    | *     | jerry-jaeseong-lee |
 | WangJeongHyun (WangJeongHyun) | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
 | KimJimin (jimeaning)          | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
