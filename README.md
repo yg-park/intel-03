@@ -51,7 +51,7 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ## Team project
 
-### Team2: [EOF] Separate Trash Collection
+### Team: [EOF] Separate Trash Collection
 최상의 재활용 원료 품질을 확보하기 위해, 분류된 재활용 쓰레기 카테고리를 한번 더 분리해준다. <br> 
 근무자는 음성 명령을 통해 재활용 쓰레기 카테고리에 맞는 재분류 모델을 스위칭 해가며 작업을 진행한다. 
 * Members
@@ -63,3 +63,16 @@ $ find ./ -iname *.bin|xargs ls -l
   | 우창민 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
 * Project Github : https://github.com/yg-park/EOF_SeparateTrashCollection.git
 * 발표자료 : https://github.com/yg-park/EOF_SeparateTrashCollection/blob/main/Documents/EOF_presentation.pptx
+
+### Team: 점자의 소리
+<점자를 인식하고 문장으로 만들어서 소리로 출력하는 프로젝트>
+* Members
+  | Name | Role |
+  |----|----|
+  | 홍종현 | Project lead |
+  | 강재환 | Project manager |
+  | 김진완 | UI design |
+  | 김혁구 | AI modeling |
+  | 박진욱 | Architect |
+* Project Github : https://github.com/myreporthjh/SoB.git
+* 발표자료 : 
