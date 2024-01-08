@@ -14,7 +14,6 @@ from iotdemo import ColorDetector, FactoryController, MotionDetector
 
 FORCE_STOP = False
 
-
 def thread_cam1(q):
     """
     desc: 병뚜껑의 움직임을 인식하여 영상 1장을 캡쳐하고,
